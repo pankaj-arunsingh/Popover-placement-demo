@@ -1,0 +1,21 @@
+/*!
+ * Separate style created for in app elements. 
+ * Here it's just a circle
+ * 
+ */
+.circle{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    background: #000000;
+    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);  /* To give a 3d effect to circle*/
+          box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+    position:absolute; /* To center the circle in center of screen*/
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;   
+}
+
+
