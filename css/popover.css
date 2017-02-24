@@ -16,8 +16,8 @@ body {
  *   Popover Fixed height and width
  *************************/
 .popover{
-    width:300px;
-    height:400px;
+    width:296px;   /* Changed width and height as 4px is occupied by padding and border */
+    height:396px;
 }
 
 .popover {
