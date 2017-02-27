@@ -1,4 +1,4 @@
-/* This js is used to provide additional placement options to popovers like top-right, top-left, bottom-right, bottom-left
+/* This js is used to provide additional placement options to popovers like north-east, north-west, south-east, south-west
  */ 
 (function($) {
   "use strict";  
